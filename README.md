@@ -1,7 +1,7 @@
 # MuscleAtlasExplorer
-MuscleAtlasExplorer is a data visualization tool for phenotypes and gene expression data in X.
+MuscleAtlasExplorer is a data visualization tool for phenotypes and gene expression data in skeletal muscle.
 
-MuscleAtlasExplorer can be seen in action on http://www.example.com.
+MuscleAtlasExplorer can be seen in action on https://mae.crc.med.lu.se/mae .
 ## Installation
 ### Single-user mode
 + Install R and the required R packages(see below).
@@ -12,10 +12,11 @@ MuscleAtlasExplorer can be seen in action on http://www.example.com.
 ### Server mode
 ...
 ## Dependencies
-MuscleAtlasExplorer has been tested under Linux(Ubuntu 14.04 and CentOS X.X), but is likely to work in single-user mode on any system with the required dependencies.
+MuscleAtlasExplorer has been tested under Linux(Ubuntu 14.04 and CentOS 6) and Windows 7.
 ### Programs
 + R
 ### R packages
 + shiny
 + DT
 + ggplot2
+
